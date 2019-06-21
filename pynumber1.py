@@ -1,4 +1,4 @@
-mport numpy as np 
+import numpy as np 
 import random
 
 rows=int(input("enter no. of rows:"))
